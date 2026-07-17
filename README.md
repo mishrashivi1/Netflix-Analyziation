@@ -66,19 +66,22 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](images/graph1.png)
+<img width="1093" height="732" alt="graph1" src="https://github.com/user-attachments/assets/744b8299-86ba-4a3d-903d-fffe95b5a311" />
+
 
 ---
 
 ### Top Genres
 
-![Top Genres](images/graph2.png)
+<img width="982" height="792" alt="graph2" src="https://github.com/user-attachments/assets/8d3437d8-0895-479c-acb3-b0c49ab343cb" />
+
 
 ---
 
 ### Netflix Growth
 
-![Growth](images/graph3.png)
+<img width="984" height="752" alt="graph3" src="https://github.com/user-attachments/assets/474fdb8e-de7a-43dc-ab17-a373e89b9c68" />
+
 
 ---
 
